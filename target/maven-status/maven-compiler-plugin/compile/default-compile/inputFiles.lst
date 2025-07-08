@@ -1,0 +1,14 @@
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/models/PaperBook.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/behaviour/ShippablePolicy.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/behaviour/MailablePolicy.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/service/ShippingService.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/models/PurchaseInfo.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/service/EmailService.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/behaviour/IPurchasePolicy.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/behaviour/PhysicalProduct.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/models/EBook.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/behaviour/NonPurchasablePolicy.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/TestMain.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/models/ShowCaseBook.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/models/BookStore.java
+/home/omargamal/projects/fawry-2/quantumbookstore/src/main/java/com/bookstore/models/Book.java
