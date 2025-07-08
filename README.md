@@ -12,7 +12,7 @@ mvn -q exec:java -Dexec.mainClass='com.example.App'
 
 ## Screenshot of running tests
 
-![Test Screenshot](images/Code_MhQmFhwb6l.png)
+![Test Screenshot](images/Code_MhQmFhwb6I.png)
 
 ## Design Decisions
 
